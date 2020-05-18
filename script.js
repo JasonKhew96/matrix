@@ -7,7 +7,7 @@ c.width = window.innerWidth;
 
 // the characters
 var gurmukhi = "੧੨੩੪੫੬੭੮੯੦ੳਅਰਤਯਪਸਦਗਹਜਕਲਙੜਚਵਬਨਮੲਥਫਸ਼ਧਘਝਖਲ਼ੜ੍ਹਛਭਣ"
-var sanskrit = "१२३४५६७८९अरतयपसदगहजकलङषचवबनमआथय़फशधघझखळक्षछभणऒ"
+var sanskrit = "あいうえおさしすせそたちつてとはひふへほなにうねのまみむめもんやよ"
 // converting the string into an array of single characters
 var characters = sanskrit.split("");
 var font_size = 12;
